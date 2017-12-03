@@ -1,6 +1,6 @@
 
 
-class boardMembers {
+let BoardMember = class boardMembers {
   prototype.BoardMember (name, homeState, training) {
     this.name = name;
     this.homeState = homeState;

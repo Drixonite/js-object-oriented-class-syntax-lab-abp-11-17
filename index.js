@@ -1,11 +1,11 @@
 class BoardMember {
   constructor(name, homeState, training){
     this.name = name;
-    this.homeState = homestate;
+    this.homeState = homeState;
     this.training = training
   }
   sayHi(){
-    return `Hi, my name is ${name}. I am from ${homestate}, and I was trained in ${training}.`
+    return `Hi, my name is ${name}. I am from ${homeState}, and I was trained in ${training}.`
   }
   veto(){
     return "No, I must disagree"

@@ -1,7 +1,7 @@
 
 
 class boardMembers {
-  boardMembers (name, homeState, training) {
+  boardMember (name, homeState, training) {
     this.name = name;
     this.homeState = homeState;
     this.training = training;

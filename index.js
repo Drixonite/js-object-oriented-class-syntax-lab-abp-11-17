@@ -18,7 +18,7 @@ class BoardMember {
     return "You will see great things from Scuber!"
   }
   sayHi(){
-    `Hi, my name is ${name}. I am from ${hometown}, and I was trained in ${training}."
+    `Hi, my name is ${name}. I am from ${hometown}, and I was trained in ${training}.`
   }
 }
 //

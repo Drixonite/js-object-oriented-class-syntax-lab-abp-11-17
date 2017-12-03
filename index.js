@@ -20,7 +20,6 @@ class BoardMember {
     return "You will see great things from Scuber."
   }
 }
-}
 
 class Ceo extends BoardMember {
   hireEmployee() {

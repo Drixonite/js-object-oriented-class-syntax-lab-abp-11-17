@@ -8,6 +8,7 @@ class boardMembers {
   }
 }
 
+
   this.prototype.veto(){
     return "No, I must disagree"
   }

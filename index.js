@@ -21,15 +21,6 @@ class BoardMember {
   }
 }
 
-//
-//   this.prototype.veto(){
-//     return "No, I must disagree"
-//   }
-//
-// }
-//
-
-
 class Ceo extends BoardMember {
   hireEmployee() {
     return "Welcome aboard!"

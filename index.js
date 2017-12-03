@@ -1,6 +1,6 @@
 
 
-class boardMember {
+class BoardMember {
   BoardMember (name, homeState, training) {
     this.name = name;
     this.homeState = homeState;

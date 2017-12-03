@@ -4,7 +4,7 @@ class BoardMember {
     this.homeState = homeState;
     this.training = training;
   }
-  this.veto(){
+  prototype.veto(){
     return "No, I must disagree"
   }
 }

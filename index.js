@@ -15,7 +15,7 @@ class BoardMember {
     return "I like to help people."
   }
   releasePressStatement(){
-    return "You will see great things from Scuber!"
+    return "You will see great things from Scuber."
   }
   sayHi(){
     `Hi, my name is ${name}. I am from ${hometown}, and I was trained in ${training}.`

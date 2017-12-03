@@ -5,13 +5,13 @@ class BoardMembers {
     this.training = training;
   }
 }
-
-  this.prototype.veto(){
-    return "No, I must disagree"
-  }
-
-}
-
+//
+//   this.prototype.veto(){
+//     return "No, I must disagree"
+//   }
+//
+// }
+//
 
 
 class Ceo extends BoardMember {

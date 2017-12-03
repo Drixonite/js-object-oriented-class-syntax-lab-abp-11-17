@@ -4,7 +4,6 @@ class BoardMember {
     this.homeState = homeState;
     this.training = training;
   }
-
   veto(){
     return "No, I must disagree"
   }
@@ -21,6 +20,7 @@ class BoardMember {
     `Hi, my name is ${name}. I am from ${homeState}, and I was trained in ${training}.`
   }
 }
+
 //
 //   this.prototype.veto(){
 //     return "No, I must disagree"

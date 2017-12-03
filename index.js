@@ -1,11 +1,10 @@
 class BoardMembers {
-  BoardMember (name, homeState, training) {
+  BoardMember (name, homeState, training){
     this.name = name;
     this.homeState = homeState;
     this.training = training;
   }
 }
-
 
   this.prototype.veto(){
     return "No, I must disagree"

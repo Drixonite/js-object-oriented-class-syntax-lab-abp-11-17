@@ -6,7 +6,7 @@ class BoardMember {
     this.training = training
   }
   sayHi(){
-    return "Hi, my name is Mr. Polished. I am from New York, and I was trained in law."
+    return `Hi, my name is ${name}. I am from ${homestate}, and I was trained in ${training}.`
   }
   veto(){
     return "No, I must disagree"
